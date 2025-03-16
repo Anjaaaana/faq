@@ -1,0 +1,7 @@
+# Python >= 3.8 required
+flask>=2.0.1
+transformers>=4.18.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.3
+numpy>=1.21.0
+torch>=1.10.0
